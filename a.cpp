@@ -7,5 +7,5 @@ int main(void)
     cin >> a >> b;
     if ((a * b ) % 2 == 0) cout << "Even" << endl;
     else cout << "Odd" << endl;
-    cout << "Hello!!" << endl;
+    cout << "Hello from laptop!!" << endl;
 }
